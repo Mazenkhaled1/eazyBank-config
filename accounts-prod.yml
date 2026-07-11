@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to EazyBank PROD APIs"
   contactDetails:
     name: "Mostafa Khaled"
-    email: "7b61d75a2f3ccff9f364a08f1293ea9d11889934f14a44b06fadd9e3863852411197517426bd74a701cd334ffeaf4765"
+    email: "{cipher}7b61d75a2f3ccff9f364a08f1293ea9d11889934f14a44b06fadd9e3863852411197517426bd74a701cd334ffeaf4765"
   onCallSupport:
     - (20) 1150366878
