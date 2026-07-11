@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank production APIs"
+  message: "Welcome to EazyBank prod APIs"
   contactDetails:
     name: "Mostafa Khaled"
     email: "{cipher}7b61d75a2f3ccff9f364a08f1293ea9d11889934f14a44b06fadd9e3863852411197517426bd74a701cd334ffeaf4765"
